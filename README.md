@@ -1,7 +1,7 @@
 I make stuff in html,css,javascript,nodejs,visual basic etc
 
 - 👋 Hi, I’m @HAKANKOKCU
-- 👀 I’m interested in Html javascript css
+- 👀 I’m interested in Html javascript css visual basic
 - 🌱 I’m currently learning how to make desktop apps with electron
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
