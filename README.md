@@ -5,7 +5,7 @@ I make stuff in html,css,javascript,nodejs,visual basic etc
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-Discord: HAKANKOKCU#7073
+Discord: (im not active in discord anymore)
 
 <!---
 HAKANKOKCU/HAKANKOKCU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
