@@ -2,7 +2,7 @@ I make stuff in html,css,javascript,nodejs,visual basic etc
 
 - 👋 Hi, I’m @HAKANKOKCU
 - 👀 I’m interested in Html javascript css visual basic and C#
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 Discord: (im not active in discord anymore)
