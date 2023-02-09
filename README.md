@@ -1,6 +1,6 @@
 I make stuff in html,css,javascript,nodejs,visual basic etc
 
-- 👋 Hi, I’m @HAKANKOKCU
+- 👋 Hi, I’m @HAKANKOKCU (he/him)
 - 👀 I’m interested in Html javascript css visual basic and C#
 - 🌱 I’m currently learning C# and Java
 - 💞️ I’m looking to collaborate on ...
