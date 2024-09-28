@@ -2,10 +2,10 @@
 I make stuff in html,css,javascript,nodejs,visual basic etc
 
 - 👋 Hi, I’m @HAKANKOKCU (he/him)
-- 👀 I’m interested in Html javascript css visual basic and C#
-- 🌱 I’m currently learning C# and Java<!--- 💞️ I’m looking to collaborate on ...-->
+- 👀 I’m interested in Html javascript css and C#
+- 🌱 I’m currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me :
-- Telegram channel: https://t.me/tbudgie
+  - Telegram channel: https://t.me/tbudgie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankokcu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![HAKANKOKCU's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakankokcu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
