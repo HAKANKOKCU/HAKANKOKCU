@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2000&pause=5000&color=FF9E16&repeat=false&width=216&height=32&lines=Hello!+I+am+Hakan.)](https://git.io/typing-svg) <br>
 I make stuff in html,css,javascript,nodejs,visual basic etc
 
-- 👋 Hi, I’m @HAKANKOKCU (he/him)
-- 👀 I’m interested in Html javascript css and C#
-- 🌱 I’m currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
+- 👋 Hi, I'm @HAKANKOKCU (he/him), I'm 15 years old.
+- 👀 I'm interested in Html javascript css and C#
+- 🌱 I'm currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me :
   - Telegram channel: https://t.me/tbudgie
 
