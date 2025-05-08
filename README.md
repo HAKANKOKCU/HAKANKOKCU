@@ -2,7 +2,7 @@
 I make stuff in html,css,javascript,nodejs,visual basic etc
 
 - 👋 Hi, I'm @HAKANKOKCU (he/him), I'm 15 years old.
-- 👀 I'm interested in Html javascript css and C#
+- 👀 I'm interested in Html, Javascript, CSS and C#
 - 🌱 I'm currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me :
   - Telegram channel: https://t.me/tbudgie
