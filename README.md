@@ -6,7 +6,7 @@ I make stuff in HTML, CSS, JavaScript, NodeJS, C# and etc.
 - 🌱 I'm currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me :
   - Telegram channel: https://t.me/tbudgie
-  - Matrix: @hakankokcu:matrix.org
+  - Matrix: [@hakankokcu:matrix.org](https://matrix.to/#/@hakankokcu:matrix.org)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankokcu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![HAKANKOKCU's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakankokcu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
