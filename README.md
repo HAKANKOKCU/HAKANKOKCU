@@ -5,7 +5,8 @@ I make stuff in HTML, CSS, JavaScript, NodeJS, C# and etc.
 - 👀 I'm interested in Html, Javascript, CSS and C#
 - 🌱 I'm currently learning Java<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me :
-  - Telegram channel: https://t.me/tbudgie
+  - Telegram channel (offtopic): https://t.me/tbudgie
+  - Telegram channel (projects): https://t.me/orangemium
   - Matrix: [@hakankokcu:matrix.org](https://matrix.to/#/@hakankokcu:matrix.org)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankokcu&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
